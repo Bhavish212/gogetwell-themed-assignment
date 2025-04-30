@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  @apply bg-gray-900 text-white;
 }
